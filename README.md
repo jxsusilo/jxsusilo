@@ -6,7 +6,7 @@
 
 I'm a third-year Computer Science student at UC Irvine.  
 My interests lie in graphics, games, and web development.
-I aspire to create projects that are as beautiful as they are functional, because visuals are important to me.
+I aspire to create projects that are as beautiful as they are functional, as visuals are important to me.
 I love to learn; I hope to do a lot this year!
 
 **Languages:**  
