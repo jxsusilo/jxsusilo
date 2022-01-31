@@ -5,8 +5,6 @@
 ## *Welcome to my GitHub!* ^-^
 
 I'm a third-year Computer Science student at UC Irvine.
-
-My interests lie in graphics, games, and web development.
 I love to learn; I hope to do a lot this year!
 
 Feel free to contact me! : )
