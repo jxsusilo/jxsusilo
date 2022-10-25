@@ -4,7 +4,7 @@
 
 ## *Welcome to my GitHub!* ^-^
 
-I'm a third-year Computer Science student at UC Irvine.
+I'm a fourth-year Computer Science student at UC Irvine.
 I love to learn; I hope to do a lot this year!
 
 Feel free to contact me! : )
