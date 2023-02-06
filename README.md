@@ -4,11 +4,9 @@
 
 ## *Welcome to my GitHub!* ^-^
 
+**About Me:**  
 I'm a fourth-year Computer Science student at UC Irvine.
 I love to learn; I hope to do a lot this year!
-
-**Languages:**  
-C++ | Python | Java
 
 Feel free to reach out! : )
 
