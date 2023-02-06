@@ -5,8 +5,8 @@
 ## *Welcome to my GitHub!* ^-^
 
 **About Me:**  
-I'm a fourth-year Computer Science student at UC Irvine.
-I love to learn; I hope to do a lot this year!
+I'm a 4th-year Computer Science student at UC Irvine, graduating June 2023.
+I love to learn; I hope to do a lot this year! 
 
 Feel free to reach out! : )
 
