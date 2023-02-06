@@ -7,10 +7,10 @@
 I'm a fourth-year Computer Science student at UC Irvine.
 I love to learn; I hope to do a lot this year!
 
-Feel free to contact me! : )
-
 **Languages:**  
 C++ | Python | Java
+
+Feel free to reach out! : )
 
 **Contact me:**  
 [LinkedIn](https://www.linkedin.com/in/jessica-s-1901/)
