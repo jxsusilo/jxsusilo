@@ -5,15 +5,14 @@
 ## *Welcome to my GitHub!* ^-^
 
 **About Me:**  
-I'm a recently-graduated Computer Science major from UC Irvine.
-I love to learn; I hope to do a lot this year! 
+I am a Software Engineer and graduated from UC Irvine majoring in Computer Science. I also do art as a hobby.
 
 Feel free to reach out! : )
 
 **Contact me:**  
 [LinkedIn](https://www.linkedin.com/in/jessica-s-1901/)
  | 
-[Email](mailto:jsusilo1@uci.edu)
+[Email](mailto:jxsusilo@gmail.com)
 
 <!--
 **jxsusilo/jxsusilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
